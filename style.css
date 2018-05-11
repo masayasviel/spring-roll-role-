@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background: linear-gradient(#FBEFFB,#FE2EF7)fixed;
+  font: 30px sans-serif;
+}
